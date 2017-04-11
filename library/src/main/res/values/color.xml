@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="translucent">#55000000</color>
+    <color name="translucence">#aeffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="mask_color">#88888888</color>
+
+
+    <color name="black">#ff333333</color>
+    <color name="lightgray">#E5E5E5</color>
+    <color name="deepgray">#C0C0C0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#8C8C8C</color>
+    <color name="color_c7c7c7">#c7c7c7</color>
+    <color name="bg_eaeaea">#eaeaea</color>
+
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+
+
+    <drawable name="listSelector">#00000000</drawable>
+
+</resources>

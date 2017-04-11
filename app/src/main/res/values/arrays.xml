@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sec_ques_selector">
+        <item>您最熟悉的好友名字是？</item>
+        <item>您最喜欢的玩具是什么？</item>
+        <item>对您影响最大的人是？</item>
+        <item>您父亲的姓名是？</item>
+        <item>您父亲的生日是？</item>
+        <item>您母亲的姓名是？</item>
+        <item>您母亲的生日是？</item>
+        <item>您配偶的姓名是？</item>
+        <item>您配偶的生日是？</item>
+        <item>自定义安全问题</item>
+    </string-array>
+
+</resources>
